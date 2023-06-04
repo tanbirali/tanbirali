@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanbirali&label=Profile%20views&color=0e75b6&style=flat" alt="tanbirali" /> </p>
 
-- 🔭 I’m currently working on [Guest Book App](https://guest-book-app.onrender.com/)
-
-- 🌱 I’m currently learning **Django, React**
-
 - 📫 How to reach me **tanbirali2004@gmial.com**
 
 <h3 align="left">Connect with me:</h3>
