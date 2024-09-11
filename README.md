@@ -5,7 +5,7 @@
 
 [![An image of @tanbirali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanbirali)](https://holopin.io/@tanbirali)
 
-- 📫 How to reach me **tanbirali2004@gmial.com**
+- 📫 How to reach me **tanbirali2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
