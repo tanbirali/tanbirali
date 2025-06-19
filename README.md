@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🎓 CSE Student (6th Sem) | 📍 India
+- 🎓 CSE Student (7th Sem) | 📍 India
 - 🔧 I specialize in **Express.js**, **MongoDB**, **Next.js**, **Prisma**, and **TailwindCSS**
 - ⚙️ Backend-focused, with experience in **secure JWT auth**, **modular APIs**, and **real-time systems**
 - 🧠 Exploring **Solana**, **n8n workflows**, **MVI with Jetpack Compose**, and **KMP Clean Architecture**
@@ -33,11 +33,39 @@ React Native | Expo | Jetpack Compose | Kotlin Multiplatform (KMP)
 Git | Docker | Railway | Render | Supabase | Cloudinary | n8n
 
 // Learning
-Solana | Web3 | Spring Boot | Kubernetes | Clean Architecture
+Solana | Web3 | Spring Boot | Kubernetes | Clean Architecture | Cloud Computing | Distributed System
 ```
 
 [![An image of @tanbirali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanbirali)](https://holopin.io/@tanbirali)
 
+---
+
+### 📫 How to Reach Me
+
+- 🐦 [Twitter](https://twitter.com/whyTanbir) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/tanbir-ali-0b0ab8246/)
+- 📧 mailmeattanbirali@gmail.com
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanbirali&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanbirali&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### 🕋 Muslim Tech Enthusiast
+
+> Building for the Ummah and beyond — merging **tech**, **ethics**, and **impact**.
+
+---
+
+### ⚡ Fun Fact
+
+> I sleep like a log (9–10 hrs), but code like a storm. 🌪️
 
 
 
