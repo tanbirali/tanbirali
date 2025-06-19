@@ -48,14 +48,7 @@ Solana | Web3 | Spring Boot | Kubernetes | Clean Architecture | Cloud Computing 
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanbirali&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanbirali&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
 
 ### 🕋 Muslim Tech Enthusiast
 
@@ -67,8 +60,18 @@ Solana | Web3 | Spring Boot | Kubernetes | Clean Architecture | Cloud Computing 
 
 > I sleep like a log (9–10 hrs), but code like a storm. 🌪️
 
+---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanbirali&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanbirali&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanbirali&show_icons=true&locale=en" alt="tanbirali" /></p>
+
+
 
