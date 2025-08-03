@@ -12,7 +12,7 @@
 - 🔧 I specialize in **Express.js**, **MongoDB**, **Next.js**, **Prisma**, and **TailwindCSS**
 - ⚙️ Backend-focused, with experience in **secure JWT auth**, **modular APIs**, and **real-time systems**
 - 🧠 Exploring **Solana**, **n8n workflows**, **MVI with Jetpack Compose**, and **KMP Clean Architecture**
-- 📲 Built a **Dream11-style app**, **Contest Tracker**, **Habit Tracker**, **LMS**, **PhotoMath clone**, and more
+- 📲 Built a **Flash card app**, **Contest Tracker**, **Habit Tracker**, **LMS**, **PhotoMath clone**, and more
 - 🧑‍💼 Passionate about solving real-world problems with **clean architecture & business logic**
 
 ---
