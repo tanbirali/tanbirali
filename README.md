@@ -8,11 +8,11 @@
 
 ### 🚀 About Me
 
-- 🎓 CSE Student (7th Sem) | 📍 India
-- 🔧 I specialize in **Express.js**, **MongoDB**, **Next.js**, **Prisma**, and **TailwindCSS**
+- 🎓 CSE Student (8th Sem) | 📍 India
+- 🔧 I specialize in **React.js**, **Express.js**, **MySQL**, **PostgreSQL**, **Next.js**, **Prisma**, and **TailwindCSS**
 - ⚙️ Backend-focused, with experience in **secure JWT auth**, **modular APIs**, and **real-time systems**
 - 🧠 Exploring **Solana**, **n8n workflows**, **MVI with Jetpack Compose**, and **KMP Clean Architecture**
-- 📲 Built a **Flash card app**, **Contest Tracker**, **Habit Tracker**, **LMS**, **PhotoMath clone**, and more
+- 📲 Built a **Flight Booking App**, **ERP**,**Contest Tracker**, **Habit Tracker**, **LMS**, **EMS**, and more
 - 🧑‍💼 Passionate about solving real-world problems with **clean architecture & business logic**
 
 ---
@@ -24,7 +24,7 @@
 Node.js | Express.js | TypeScript | MongoDB | PostgreSQL | Prisma | Zod
 
 // Frontend
-React.js | Next.js | TailwindCSS | Zustand | Shadcn/ui | Recharts
+React.js | Next.js | TailwindCSS | Zustand | Shadcn/ui | Recharts | Redux | React-hook-form 
 
 // Mobile
 React Native | Expo | Jetpack Compose | Kotlin Multiplatform (KMP)
