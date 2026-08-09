@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🎓 CSE Student (8th Sem) | 📍 India
+- 🎓 B.Tech CSE  | 📍 India
 - 🔧 I specialize in **React.js**, **Express.js**, **MySQL**, **PostgreSQL**, **Next.js**, **Prisma**, and **TailwindCSS**
 - ⚙️ Backend-focused, with experience in **secure JWT auth**, **modular APIs**, and **real-time systems**
 - 🧠 Exploring **Solana**, **n8n workflows**, **MVI with Jetpack Compose**, and **KMP Clean Architecture**
