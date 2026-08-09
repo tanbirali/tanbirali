@@ -64,8 +64,8 @@ Solana | Web3 | Spring Boot | Kubernetes | Clean Architecture | Cloud Computing 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanbirali&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanbirali&layout=compact&theme=tokyonight" height="150" />
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tanbirali&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=tanbirali&include_all_commits=true&theme=dark)
 </p>
 
 ---
